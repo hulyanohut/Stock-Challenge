@@ -3,11 +3,11 @@
 
 OVERVIEW: VBA Stock Analysis
 
- ###Purpose
+### Purpose
 
 -In this project and analyisis, I edited, the Stock Market with VBA solution code to loop through all the data one time in  to collect. And I determined code successfully made the VBA script run faster.The VBA file in this repository can be used to analyize yearly stock data
 
-  ##Analysis and Challenges
+  ## Analysis and Challenges
 
  -Prepare dataser VBA_Challenge.vbs file for the project.
  
