@@ -19,11 +19,12 @@ OVERVIEW: VBA Stock Analysis
   -Create folder in GitHub 
  
    What are the advantages or disadvantages of refactoring code?
-   ## ADVANTAGES
+   ## ADVANTAGE
    Logical errors easily appear in well structure code that contains nested conditionals and loops.
      
-   ## DISADVANTAGES
+   ## DISADVANTAGE
    Refactoring process can affect the testing outcomes.
+   
    ## Summary
      
    How do these pros and cons apply to refactoring the original VBA script?
