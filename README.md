@@ -22,4 +22,4 @@ Use the steps Refactor VBA code and measure performance to add code where indica
 
 ### Result
 
-We can run the stock all analysis, to confirm that our stock analysis outputs for 2017 and 2018 are the same as dataset example provided. You can see the final Stock All Analysis Results Analysis 2017 and 2018 save the pop-up messages showing elapsed run time for the refactored code as VBA_Challenge_2017.png and VBA_Challenge_2018.png. data-M2-Challenge-02-2018-stock-analysis.png
+We can run the stock all analysis, to confirm that our stock analysis outputs for 2017 and 2018 are the same as dataset example provided. You can see the final Stock All Analysis Results Analysis 2017 and 2018 save the pop-up messages showing elapsed run time for the refactored code as VBA_Challenge_2017.png and VBA_Challenge_2018.png.
